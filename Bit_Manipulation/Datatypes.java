@@ -9,5 +9,6 @@ public class Datatypes {
         y+=10;
         System.out.println(y);
 
+
     }
 }
