@@ -1,5 +1,6 @@
 package Array;
 
+import java.util.Collections;
 import java.util.Scanner;
 
 public class MoveZerosEnd {
@@ -30,7 +31,8 @@ public class MoveZerosEnd {
         for (int i = 0; i < arr.length; i++) {
             arr[i]= sc.nextInt();
         }
-        movezeros(arr);
+
+//        movezeros(arr);
       printarr(arr);
     }
 }
